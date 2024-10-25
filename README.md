@@ -22,19 +22,19 @@ The Employee Management System (EMS) is designed to simplify HR tasks, allowing 
 
 
 ## Modules
-- [] Authentication Module:
+- [ ] Authentication Module:
     * Manages login functionality for admins and employees.
     * Ensures role-based access and session management.
  
-- [] Admin Module:
+- [ ] Admin Module:
     * CRUD operations for employee records.
     * Access to add new employees, view details, make updates, and delete records.
 
-- [] Employee Module:
+- [ ] Employee Module:
     * Allows employees to view their profile.
     * Facilitates the downloading of payslips in PDF format.
 
-- [] Database Module:
+- [ ] Database Module:
     * MySQL database integration for persistent storage of employee records.
     * Database schema designed for efficient data retrieval and management.
  
