@@ -18,7 +18,7 @@ The Employee Management System (EMS) is designed to simplify HR tasks, allowing 
 ## Software/Technologies Used
 - Backend: Spring Boot (Java), JPA, MySQL
 - Frontend: Thymeleaf, HTML, CSS, JavaScript
-- Development Tools: IntelliJ IDEA/Eclipse, MySQL Workbench, Postman for API testing
+- Development Tools: Eclipse IDE, MySQL Workbench, Postman for API testing
 
 
 ## Modules
