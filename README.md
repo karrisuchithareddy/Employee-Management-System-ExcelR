@@ -1,5 +1,6 @@
 # Employee Management System
-The Employee Management System (EMS) is designed to simplify HR tasks, allowing admins to efficiently manage employee records while providing employees with secure access to view their details and download payslips. This project was collaboratively developed by a team of 8, focusing on streamlined functionality and ease of use for both admins and employees.
+The Employee Management System (EMS) is designed to simplify HR tasks, allowing admins to efficiently manage employee records with create details such as personal details, professional details, project details, financial details, and then update, delete and view those employee details i.e, (CRUD operations) while providing the employees with secure access to view their details and also download their payslips. This project was collaboratively developed by a team of 8, focusing on streamlined functionality and ease of use for both admins and employees.
+
 
 ## Features
 * Admin Dashboard:
@@ -11,7 +12,7 @@ The Employee Management System (EMS) is designed to simplify HR tasks, allowing 
    * Download monthly payslips with ease.
 
 * Authentication:
-   * Secure login page for both admins and employees.
+   * Secure login page for both admins and employees using JWT.
    * Role-based access to dashboards.
  
 
